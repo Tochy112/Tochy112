@@ -1,32 +1,18 @@
-
-
-<!--
-**Tochy112/Tochy112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tochukwu
 ================================================================================================================================
 
 Fullstack Developer (FE heavy)
 ------------------------------
 
-A fullstack developer with 2years of experience creating clean user interfaces and web applications using JavaScript, ReactJs, VueJS, Laravel and ​other frameworks. Making magic is worth it 🪄. I'm committed to writing clean and reusable codes while building fast and scalable web applications. ​
+A fullstack developer with 2years of experience creating clean user interfaces and web applications using JavaScript, ReactJs, VueJS, Laravel and ​other frameworks. <br> Making magic is worth it 🪄. <br> I'm committed to writing clean and reusable codes while building fast and scalable web applications. ​
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [ukwuomatochi112@gmail.com](mailto:ukwuomatochi112@gmail.com)
 *   🧠  I'm learning VueJS and Firebase
-*   🤝  I'm open to collaborating on any project### Skills 
+*   🤝  I'm open to collaborating on any project 
+<h1> Skills 
+<br>
+<br>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -40,11 +26,13 @@ A fullstack developer with 2years of experience creating clean user interfaces a
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
-  ### Socials
-
+<h1> Socials
+<br>
+<br>
 <p align="left"> <a href="https://www.github.com/Tochy112" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ukwuoma-tochukwu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@prof_Tochy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tochy_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
-
+<h1> Badges
+<br>
+<br>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Tochy112"><img src="https://github-readme-stats.vercel.app/api?username=Tochy112&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tochy112's GitHub stats" /></a>
@@ -53,8 +41,9 @@ A fullstack developer with 2years of experience creating clean user interfaces a
 
 <a href="https://github.com/Tochy112" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tochy112&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
+<h2> Support Me
+<br>
+<br> 
 <a href="https://www.buymeacoffee.com/tochi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>                
          
                   
