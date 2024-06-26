@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer (FE heavy)
 ------------------------------
 
-A fullstack developer with 2years of experience creating clean user interfaces and web applications using JavaScript, ReactJs, VueJS, Laravel and ​other frameworks. <br> Making magic is worth it 🪄. <br> I'm committed to writing clean and reusable codes while building fast and scalable web applications. ​
+A fullstack developer with 3years of experience creating clean user interfaces and web applications using JavaScript, ReactJs, VueJS, Laravel and ​other frameworks. <br> Making magic is worth it 🪄. <br> I'm committed to writing clean and reusable codes while building fast and scalable web applications. ​
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [ukwuomatochi112@gmail.com](mailto:ukwuomatochi112@gmail.com)
