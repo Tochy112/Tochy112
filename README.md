@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tochukwu
 ================================================================================================================================
 
-Fullstack Developer
+Software Engineer
 ------------------------------
-
-A fullstack developer with experience creating clean user interfaces and web applications using JavaScript, ReactJs, VueJS, Laravel and ​other frameworks. <br> Making magic is worth it 🪄. <br> I'm committed to writing clean and reusable codes while building fast and scalable web applications. ​
+Software Engineer with 3+ years of experience building scalable, high-performance applications. Proficient in both frontend and backend technologies, focused on delivering robust and efficient solutions.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [ukwuomatochi112@gmail.com](mailto:ukwuomatochi112@gmail.com)
-*   🧠  I'm learning Nodejs
+*   🧠  Perfecting Nodejs
 *   🤝  I'm open to collaborating on any project 
 <h1> Skills 
 <br>
