@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tochukwu
 ================================================================================================================================
 
-Software Engineer
+Fullstack Software Engineer
 ------------------------------
-Software Engineer with 3+ years of experience building scalable, high-performance applications. Proficient in both frontend and backend technologies, focused on delivering robust and efficient solutions.
+Fullstack Software Engineer with 3+ years of experience building scalable, high-performance applications. Proficient in both frontend and backend technologies, focused on delivering robust and efficient solutions.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [ukwuomatochi112@gmail.com](mailto:ukwuomatochi112@gmail.com)
