@@ -39,7 +39,13 @@ Fullstack Software Engineer with 3 years of experience building scalable, high-p
 
 <a href="http://www.github.com/Tochy112"><img src="https://github-readme-stats.vercel.app/api?username=Tochy112&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tochy112's GitHub stats" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tochy112&" alt="tochy112" /></p>
+[//]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tochy112&" alt="tochy112" /></p>)
+
+<p>Streak</p>
+<p>
+         <img src="https://d3frb2mbny706b.cloudfront.net/Tochy112" width="400">
+</p>
+
 
 <a href="https://github.com/Tochy112" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tochy112&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
