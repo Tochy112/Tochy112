@@ -10,7 +10,7 @@ Fullstack Software Engineer with 3 years of experience building scalable, high-p
 
 - 📫 How to reach me **[ukwuomatochi112@gmail.com](mailto:ukwuomatochi112@gmail.com)**
 
-- ⚡ Fun fact **I'm good at maths**
+- ⚡ Fun fact **I'm good at math**
 
 <h1> Skills 
 <br>
