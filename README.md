@@ -2,15 +2,15 @@ Fullstack Software Engineer
 ------------------------------
 Fullstack Software Engineer with 3 years of experience building scalable, high-performance applications. Proficient in both frontend and backend technologies, focused on delivering robust and efficient solutions.
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Awesome Projects**
 
-- 💬 Ask me about **blockchain**
+- 💬 Ask me about **Blockchain**
 
 - 📫 How to reach me **[ukwuomatochi112@gmail.com](mailto:ukwuomatochi112@gmail.com)**
 
-- ⚡ Fun fact **I'm good at math**
+- ⚡ Fun fact **I'm good at Math**
 
 <h1> Skills 
 <br>
