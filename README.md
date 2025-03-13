@@ -26,7 +26,8 @@ Fullstack Software Engineer with 3 years of experience building scalable, high-p
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://typescript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Nestjs" /></a>
-<a href="https://nextjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36" alt="Nextjs"/></a>
+<a href="https://nextjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next.svg" width="36" height="36" alt="Nextjs"/></a>
+<a href="https://solidity.com/" target="_blank" rel="noreferrer"><img src="https://soliditylang.org/assets/logo-og-image.png" width="36" height="36" alt="Soidity"/></a>
 </p>
 <h1> Socials
 <br>
