@@ -1,6 +1,6 @@
-Fullstack Software Engineer
+Software Engineer
 ------------------------------
-Fullstack Software Engineer with 3 years of experience building scalable, high-performance applications. Proficient in both frontend and backend technologies, focused on delivering robust and efficient solutions.
+Software Engineer with experience building scalable, high-performance applications. Proficient in both frontend and backend technologies, focused on delivering robust and efficient solutions.
 
 - 🌱 I’m currently learning **Solidity**
 
